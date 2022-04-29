@@ -1,12 +1,12 @@
 # UI Automation Assignments
 
-***Tokopedia*** UI Automation Test project assign to Habib
+***Tokopedia*** UI Automation Test project assigned to Habib
 
-## Part 1: Getting sstarted
+## Part 1: Getting started
 
 ### Requirements
 
-Here is complete list of the setup:
+Here is a complete list of the setup:
 
 - Eclipse IDE
 - Chrome Browser 101.0.4951.41 or earlier
@@ -38,7 +38,7 @@ You will see something similar with this:
 
 Since we are using java to write our test, we need to install Java Development Kit (JDK). Specifically, [Java 8](https://java.com/en/download/manual.jsp).
 
-Download and complete installation process.
+Download and complete the installation process.
 
 After that, add these two lines to your system environment:
 
@@ -58,19 +58,19 @@ You may visit this [site](https://www.google.com/chrome/).
 
 After completing the installation processes, you're almost there to run the test.
 
-In order to do it, clone project ***TokopediaTest*** project from [github](https://github.com/haga2554/TokopediaTest).
+In order to do it, clone project ***TokopediaTest*** project from [Github](https://github.com/haga2554/TokopediaTest).
 
 ### 2. Open Project with Eclipse and Build
 
-Once, the project cloned to your local machine, open this project with Eclipse.
+Once, the project is cloned to your local machine, open this project with Eclipse.
 
 Then go to Project > Clean...
 
 After that go to Project > Build Project.
 
-Since the project is using Maven, this process will also retrieving all required depedencies that stated in the ***pom.xml*** file.
+Since the project is using Maven, this process will also be retrieving all required dependencies that are stated in the ***pom.xml*** file.
 
-Please wait untill all those depedencies are successfully downloaded.
+Please wait until all those dependencies are successfully downloaded.
 
 ### 3. Execute the Test
 
@@ -88,21 +88,21 @@ To execute the test, simply
 >
 > or
 > 
-> right click on the code then go to Run As > TestNG
+> right-click on the code then go to Run As > TestNG
 
-Once the execute process is done. Update the project folder, you will see ScreenCaptures folder in the project explorer.
+Once the execution process is done. Update the project folder, you will see the ScreenCaptures folder in the project explorer.
 
-This folder will automatically generated every runtime process, marked with specific timestamp so we will not losing any results/evidences.
+This folder will automatically generate every runtime process, marked with a specific timestamp so we will not be losing any results/evidence.
 
-There will be test-outpot folder, containing the test report that generated every runtime process. To see it, you may open ***index.html*** inside this folder using your browser.
+There will be a test-output folder, containing the test report that is generated every runtime process. To see it, you may open ***index.html*** inside this folder using your browser.
 
 ## Part 3: Framework Summary
 
-This project uses Maven, Java, selenium, and TestNG. This combination is aminging for Maintainability, Usability, and Reporting.
+This project uses Maven, Java, selenium, and TestNG. This combination is aiming for Maintainability, Usability, and Reporting.
 
-Maven is long to be known as one of the most common project management tool. It helps the maintainability of this project to work collaboratively, swap and manage many depedencies, etc. The alternative version of this tool is gradle, which newer and more simple depedencies manager.
+Maven is long to be known as one of the most common project management tools. It helps the maintainability of this project to work collaboratively, swap and manage many dependencies, etc. The alternative version of this tool is Gradle, which newer and more simple dependencies manager.
 
-TestNG itselft choosen as it is the advanced version of JUnit/NUnit. The use of TestNG will allow test engineers to cover many test categories whether it unit, functional, e2e, or integration. And also this framework comes with built-in report that will be generated every runtime process.
+TestNG itself was chosen as it is the advanced version of JUnit/NUnit. The use of TestNG will allow test engineers to cover many test categories whether unit, functional, e2e, or integration. And also this framework comes with a built-in report that will be generated for every runtime process.
 
 ## Authors
 
