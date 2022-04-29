@@ -1,6 +1,6 @@
 # UI Automation Assignments
 
-***Tokopedia*** UI Automation Test project
+***Tokopedia*** UI Automation Test project assign to Habib
 
 ## Part 1: Getting sstarted
 
@@ -104,3 +104,8 @@ Maven is long to be known as one of the most common project management tool. It 
 
 TestNG itselft choosen as it is the advanced version of JUnit/NUnit. The use of TestNG will allow test engineers to cover many test categories whether it unit, functional, e2e, or integration. And also this framework comes with built-in report that will be generated every runtime process.
 
+## Authors
+
++ Habib (burhanuddin.yusuf25@gmail.com) - Initial _Readme_ on 29/04/2022
+
+_P.S. Kindly update this section after modyfiying this Readme file_
