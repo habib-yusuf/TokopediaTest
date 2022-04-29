@@ -108,7 +108,7 @@ TestNG itself was chosen as it is the advanced version of JUnit/NUnit. The use o
 
 - Properties file: Adding properties file is one of the best solutions to manage many configurations that are quite complex and it will ease maintaining the many values in many environments. This improvement should be the first thing that I consider to be implemented in the framework.
 
-- Apend Cucumber framework: Cucumber is Behavior Driven Development (BDD) framework. Using this tool will significantly ease the scenario maker because the syntax is humanised even for non-engineer. It will surely raise readability for the code/test scenario. Furthermore, it has many localisations so we can create the test scenario using Bahasa Indonesia or Javanese.
+- Append Cucumber framework: Cucumber is Behavior Driven Development (BDD) framework. Using this tool will significantly ease the scenario maker because the syntax is humanised even for non-engineer. It will surely raise readability for the code/test scenario. Furthermore, it has many localisations so we can create the test scenario using Bahasa Indonesia or Javanese.
 
 ## Authors
 
