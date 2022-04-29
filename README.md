@@ -104,6 +104,12 @@ Maven is long to be known as one of the most common project management tools. It
 
 TestNG itself was chosen as it is the advanced version of JUnit/NUnit. The use of TestNG will allow test engineers to cover many test categories whether unit, functional, e2e, or integration. And also this framework comes with a built-in report that will be generated for every runtime process.
 
+## Part 4: Improvements
+
+- Properties file: Adding properties file is one of the best solutions to manage many configurations that are quite complex and it will ease maintaining the many values in many environments. This improvement should be the first thing that I consider to be implemented in the framework.
+
+- Apend Cucumber framework: Cucumber is Behavior Driven Development (BDD) framework. Using this tool will significantly ease the scenario maker because the syntax is humanised even for non-engineer. It will surely raise readability for the code/test scenario. Furthermore, it has many localisations so we can create the test scenario using Bahasa Indonesia or Javanese.
+
 ## Authors
 
 + Habib (burhanuddin.yusuf25@gmail.com) - Initial _Readme_ on 29/04/2022
